@@ -858,7 +858,15 @@ table tr td {
 }
 
 
-@media (max-width: 1280px){
+@media (min-width: 1920px) {
+    .container-form {
+        width: 37%!important;
+        margin: auto;
+        margin-top: 40px;
+    }
+}
+
+@media (max-width: 1919px){
     .container-form {
         width: 68%!important;
         margin: auto;
