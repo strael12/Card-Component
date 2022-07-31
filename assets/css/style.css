@@ -866,9 +866,9 @@ table tr td {
     }
 }
 
-@media (max-width: 1919px){
+@media (max-width: 1453px){
     .container-form {
-        width: 68%!important;
+        width: 50%!important;
         margin: auto;
         margin-top: 40px;
     }
