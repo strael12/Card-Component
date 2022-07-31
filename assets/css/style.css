@@ -857,6 +857,15 @@ table tr td {
     display: block!important;
 }
 
+
+@media (max-width: 1280px){
+    .container-form {
+        width: 68%!important;
+        margin: auto;
+        margin-top: 40px;
+    }
+}
+
 /* Mobile helpers */
 @media (max-width: 844px){
     .desktop-mode {
